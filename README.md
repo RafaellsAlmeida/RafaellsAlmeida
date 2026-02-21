@@ -19,11 +19,14 @@ AI automation engineer focused on production-ready agent workflows, full-stack s
 
 ## Academic Projects
 
+Recruiter 90-second scan: check each README for `TL;DR -> Results -> Setup`.
+
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [wellnesscare-analytics-capstone](https://github.com/RafaellsAlmeida/wellnesscare-analytics-capstone) | Data visualization capstone with operational and revenue insights for a clinic use case. | Tableau, SQL, CSV |
 | [hospital-database-design-project](https://github.com/RafaellsAlmeida/hospital-database-design-project) | Full hospital database design package with schema planning and documentation. | SQL, ERD, DB design docs |
 | [ism-motors-dealership-dashboard](https://github.com/RafaellsAlmeida/ism-motors-dealership-dashboard) | Academic dealership operations dashboard with inventory, financing, and workflow tracking. | React, TypeScript, Tailwind |
+| [ism-4542-coursework-analytics](https://github.com/RafaellsAlmeida/ism-4542-coursework-analytics) | Packaged R coursework analytics project with reproducibility guide and report artifacts. | R, Excel, Statistics |
 
 ## What I Optimize For
 
