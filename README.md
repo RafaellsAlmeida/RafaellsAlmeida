@@ -1,16 +1,30 @@
-## Hi there 👋
+# Rafael Almeida
 
-<!--
-**RafaellsAlmeida/RafaellsAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI automation engineer focused on production-ready agent workflows, full-stack systems, and client delivery.
 
-Here are some ideas to get you started:
+- Location: Tampa, FL
+- Focus: AI agents, workflow automation, full-stack product delivery
+- Site: https://rafaellsalmeida.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [evidens-clinic-bot](https://github.com/RafaellsAlmeida/evidens-clinic-bot) | WhatsApp clinic assistant with AI triage, scheduling support, and human handoff. | React, Node.js, tRPC, Supabase |
+| [corsair-image-platform](https://github.com/RafaellsAlmeida/corsair-image-platform) | Multi-brand marketing image generation/editing platform with workflow automation. | React, Node.js, AI image APIs |
+| [nutrition-whatsapp-platform](https://github.com/RafaellsAlmeida/nutrition-whatsapp-platform) | Nutrition assistant over WhatsApp with plan generation and payment flows. | React, Supabase, Stripe |
+| [proex-niw-letter-platform](https://github.com/RafaellsAlmeida/proex-niw-letter-platform) | EB-2 NIW recommendation letter generation pipeline from uploaded docs. | FastAPI, React, Python |
+| [lifetrek](https://github.com/RafaellsAlmeida/lifetrek) | Medical manufacturing platform for content, operations, and sales workflows. | React, TypeScript, Supabase |
+| [FEMOTTA](https://github.com/RafaellsAlmeida/FEMOTTA) | AI marketing image editor and product strategy documentation. | Node.js, React |
+
+## What I Optimize For
+
+- Ship fast, but keep systems maintainable.
+- Design workflows that reduce manual client operations.
+- Turn prototypes into deployable internal tools.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/rafaellsalmeida
+- GitHub: https://github.com/RafaellsAlmeida
+- Portfolio: https://rafaellsalmeida.com
