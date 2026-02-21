@@ -17,6 +17,14 @@ AI automation engineer focused on production-ready agent workflows, full-stack s
 | [lifetrek](https://github.com/RafaellsAlmeida/lifetrek) | Medical manufacturing platform for content, operations, and sales workflows. | React, TypeScript, Supabase |
 | [FEMOTTA](https://github.com/RafaellsAlmeida/FEMOTTA) | AI marketing image editor and product strategy documentation. | Node.js, React |
 
+## Academic Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [wellnesscare-analytics-capstone](https://github.com/RafaellsAlmeida/wellnesscare-analytics-capstone) | Data visualization capstone with operational and revenue insights for a clinic use case. | Tableau, SQL, CSV |
+| [hospital-database-design-project](https://github.com/RafaellsAlmeida/hospital-database-design-project) | Full hospital database design package with schema planning and documentation. | SQL, ERD, DB design docs |
+| [ism-motors-dealership-dashboard](https://github.com/RafaellsAlmeida/ism-motors-dealership-dashboard) | Academic dealership operations dashboard with inventory, financing, and workflow tracking. | React, TypeScript, Tailwind |
+
 ## What I Optimize For
 
 - Ship fast, but keep systems maintainable.
